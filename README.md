@@ -8,5 +8,4 @@
 
 </body>
 </html>
-<img src = ![Uploading Screenshot (24).png…]()
->
+<img src = "![Uploading Screenshot (24).png…]()" width = "104" height "142" >
